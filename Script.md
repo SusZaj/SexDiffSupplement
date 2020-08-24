@@ -4,7 +4,7 @@ title: 'Sex and Power: Sexual dimorphism in trait variability and its eco-evolut
 author: Susanne Zajitschek,  Felix Zajitschek, Russell Bonduriansky, Robert  Brooks,
   Will Cornwell, Daniel Falster, Malgorzata Lagisz, Jeremy Mason, Alistair Senior,
   Daniel Noble, & Shinichi Nakagawa
-date: "`r Sys.Date()`"
+date: 'August 2020'
 output:
   html_document:
     df_print: paged
